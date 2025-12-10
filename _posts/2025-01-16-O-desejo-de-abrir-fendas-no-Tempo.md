@@ -6,7 +6,7 @@ categories: blog
 ---
 
 <!-- Fundo preto para toda a área do post -->
-<div style="background-color: #000; padding: 3rem 1.5rem; min-height: 100vh;">
+<div style="background-color: #000;">
 
   <!-- Imagem centralizada -->
   <div style="max-width: 420px; margin: 0 auto 2rem auto;">
