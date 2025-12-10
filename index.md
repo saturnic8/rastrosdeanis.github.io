@@ -7,11 +7,20 @@ title: "Rastros de Anis"
   <img class="free-img" src="https://via.placeholder.com/300x200" alt="">
 </div>
 
-<div class="free-block" style="top: 300px; left: 120px;">
-  <p class="free-text">
-    #Rastros de Anis
-  </p>
+<div style="
+  position: absolute;
+  top: 40px;
+  left: 40px;
+  font-size: 2.2rem;
+  font-family: 'Crimson Text', serif;
+  font-style: italic;
+  color: #e6e6e6;
+  letter-spacing: 1px;
+  z-index: 10;
+">
+  Rastros de Anis
 </div>
+
 
 <div class="free-block" style="top: 300px; left: 120px;">
   <p class="free-text">
