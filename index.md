@@ -22,7 +22,7 @@ title: "Rastros de Anis"
        max-width: 360px;
        z-index: 5;
      ">
-  <a href="/blog/hipotese-do-tempo">
+  <a href="/blog/o-desejo-de-abrir-fendas-no-tempo">
     <img class="free-img" 
          src="/assets/images/rubreo.jpg"
          style="width: 100%; height: auto;">
