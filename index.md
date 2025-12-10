@@ -30,6 +30,23 @@ title: "Rastros de Anis"
   </p>
 </div>
 
+
+<div class="free-block"
+     style="
+       position: absolute;
+       top: 90px;
+       right: 150px;
+       max-width: 360px;
+       z-index: 5;
+     ">
+    <img class="free-img" 
+         src="/assets/images/IMG_0533 (1).jpg"
+         style="width: 100%; height: auto;">
+  </a>
+</div>
+
+
+
 <div class="free-block"
      style="
        position: absolute;
