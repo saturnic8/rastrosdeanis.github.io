@@ -54,7 +54,7 @@ title: "Rastros de Anis"
 
 <div class="free-block" style="top: 420px; left: 500px;">
   <p class="free-text">  
-    <a href="/blog/">blog</a><br>
-    <a href="/projetos/">projetos</a>
+    <a href="/blog/">Blog</a><br>
+    <a href="/projetos/">Projetos</a>
   </p>
 </div>
