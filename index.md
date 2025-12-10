@@ -10,7 +10,7 @@ title: "Rastros de Anis"
 <div style="
   position: absolute;
   top: 60px;
-  left: 60px;
+  left: 120px;
   font-size: 2.2rem;
   font-family: 'Crimson Text', serif;
   font-style: italic; bold;
@@ -28,20 +28,6 @@ title: "Rastros de Anis"
     <br>
     territórios de poeira digital
   </p>
-</div>
-
-
-<div class="free-block"
-     style="
-       position: absolute;
-       top: 60px;
-       right: 360px;
-       max-width: 360px;
-       z-index: 5;
-     ">
-    <img class="free-img" 
-         src="/assets/images/IMG_0533 (1).jpg"
-         style="width: 60%; height: auto;">
 </div>
 
 
