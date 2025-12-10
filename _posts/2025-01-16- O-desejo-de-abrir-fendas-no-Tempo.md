@@ -6,7 +6,7 @@ categories: blog
 image: "/assets/images/rubreo.jpg"
 ---
 
-![Rubreo](assets/images/rubreo.jpg)
+![Rubreo](/assets/images/rubreo.jpg)
 
 
 O desejo de abrir fendas no Tempo,
