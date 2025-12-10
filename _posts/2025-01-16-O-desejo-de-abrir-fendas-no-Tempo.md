@@ -21,7 +21,7 @@ categories: blog
        margin: 0 auto;
        text-align: center;
        color: #fff;
-       font-size: 1.25rem;
+       font-size: 1.0rem;
        line-height: 1.9;
        font-family: 'Crimson Text', serif;
        font-style: italic;
