@@ -17,14 +17,16 @@ title: "Rastros de Anis"
 <div class="free-block"
      style="
        position: absolute;
-       top: 120px;           /* ajuste vertical */
-       right: 60px;          /* distância da borda direita */
-       max-width: 360px;     /* controle do tamanho */
-       z-index: 5;           /* fica acima do fundo, mas atrás de menus */
+       top: 120px;
+       right: 60px;
+       max-width: 360px;
+       z-index: 5;
      ">
-  <img class="free-img" 
-       src="/assets/images/Hipotese do Tempo 31-03.jpg"
-       style="width: 100%; height: auto;">
+  <a href="/blog/hipotese-do-tempo">
+    <img class="free-img" 
+         src="/assets/images/rubreo.jpg"
+         style="width: 100%; height: auto;">
+  </a>
 </div>
 
 
