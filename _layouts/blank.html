@@ -1,12 +1,19 @@
 <!DOCTYPE html>
-<html lang="pt">
-<head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }} — {{ site.title }}</title>
-  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
-</head>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} · Rastros de Anis</title>
 
-<body class="blank-body">
-  {{ content }}
-</body>
+    <!-- Fonte Crimson Text -->
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+
+  <body class="blank-body">
+    <main class="blank-content">
+      {{ content }}
+    </main>
+  </body>
 </html>
+
