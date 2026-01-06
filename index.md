@@ -3,6 +3,7 @@ layout: blank
 title: "Rastros de Anis"
 ---
 
+<!-- Imagem decorativa esquerda -->
 <div class="free-block" style="top: 40px; left: 60px;">
   <img class="free-img" src="https://via.placeholder.com/300x200" alt="">
 </div>
@@ -38,12 +39,4 @@ title: "Rastros de Anis"
      style="top: 420px; left: 500px;">
   <a href="/blog/">Blog</a><br>
   <a href="/projetos/">Projetos</a>
-</div>
-
-
-<div class="free-block" style="top: 420px; left: 500px;">
-  <p class="free-text">  
-    <a href="/blog/">Blog</a><br>
-    <a href="/projetos/">Projetos</a>
-  </p>
 </div>
