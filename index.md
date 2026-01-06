@@ -7,39 +7,31 @@ title: "Rastros de Anis"
   <img class="free-img" src="https://via.placeholder.com/300x200" alt="">
 </div>
 
-<div style="
-  position: absolute;
-  top: 60px;
-  left: 120px;
-  font-size: 2.4rem;
-  font-family: 'Crimson Text', serif;
-  font-style: italic;
-  font-weight: 700;
-  color: #e6e6e6;
-  letter-spacing: 1px;
-  z-index: 10;
-">
-  Rastros de Anis
-</div>
-
-
-
+<!-- Campo de leitura -->
 <div class="reading-field">
+
+  <h1 class="site-title">
+    Rastros de Anis
+  </h1>
+
+<br><br>
+
   <p class="free-text">
     fragmentos, ecos, rastros<br>
     territórios de poeira digital
   </p>
-  
+
 <br><br>
 
   <p class="free-text">
     <a href="/blog/">Blog</a><br>
     <a href="/projetos/">Projetos</a>
   </p>
+
 </div>
 
 
-
+<!-- Imagens -->
 <div class="free-block"
      style="
        position: absolute;
