@@ -24,11 +24,15 @@ title: "Rastros de Anis"
 
 
 
-<div class="free-block" style="top: 260px; left: 120px;">
+<div class="reading-field">
   <p class="free-text">
-    fragmentos, ecos, rastros
-    <br>
+    fragmentos, ecos, rastros<br>
     territórios de poeira digital
+  </p>
+
+  <p class="free-text">
+    <a href="/blog/">Blog</a><br>
+    <a href="/projetos/">Projetos</a>
   </p>
 </div>
 
@@ -54,9 +58,4 @@ title: "Rastros de Anis"
   <img class="free-img" src="https://via.placeholder.com/250x250" alt="">
 </div>
 
-<div class="free-block" style="top: 380px; left: 120px;">
-  <p class="free-text">  
-    <a href="/blog/">Blog</a><br>
-    <a href="/projetos/">Projetos</a>
-  </p>
-</div>
+
