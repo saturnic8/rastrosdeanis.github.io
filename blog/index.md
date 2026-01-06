@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blank
 title: Blog
 ---
 
@@ -9,9 +9,13 @@ Aqui ficam os textos, rastros e fragmentos.
 
 ---
 
-{% for post in site.posts %}
-- **[{{ post.title }}]({{ post.url }})**  
-  <span style="font-size: 0.8rem; color: #aaa;">
-    {{ post.date | date: "%d/%m/%Y" }}
-  </span>
-{% endfor %}
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
