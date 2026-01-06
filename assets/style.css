@@ -1,75 +1,79 @@
-/* Fonte Crimson Text (com itálico) */
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+/* =====================================================
+   FONTE
+===================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 
-body {
-  margin: 0;
-  padding: 0;
-  font-family: "Crimson Text", serif;
-  background: #0e0e0e;
-  color: #e6e6e6;
+
+/* =====================================================
+   RESET BÁSICO
+===================================================== */
+* {
+  box-sizing: border-box;
 }
 
-/* Links */
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #000;
+  color: #e6e6e6;
+  font-family: "Crimson Text", serif;
+}
+
+
+/* =====================================================
+   LINKS
+===================================================== */
 a {
   color: #e0aaff;
   text-decoration: none;
 }
+
 a:hover {
   text-decoration: underline;
 }
 
-/* Cabeçalho */
-.header {
-  padding: 20px;
-  border-bottom: 1px solid #333;
-}
 
-.site-title a {
-  font-size: 1.8rem;
-  font-weight: 600;
-  color: #fafafa;
-}
-
-.nav a {
-  margin-right: 15px;
-}
-
-/* Conteúdo geral do blog */
-.content {
-  max-width: 750px;
-  margin: 0 auto;
-  padding: 40px 30px;
-  background: #0e0e0e;
-  box-shadow: none !important;
-  border: none !important;
-}
-
-/* Remover qualquer borda branca residual */
-.page {
-  background: #0e0e0e !important;
-  border: none !important;
-  box-shadow: none !important;
-}
-
-.post {
-  background: #0e0e0e !important;
-  border: none !important;
-  box-shadow: none !important;
-}
-
-/* Homepage com layout livre */
+/* =====================================================
+   LAYOUT BLANK (BASE DO SITE)
+===================================================== */
 .blank-body {
   background: #000;
-  color: #eee;
-  margin: 0;
-  padding: 0;
+  min-height: 100vh;
   overflow-x: hidden;
   position: relative;
 }
 
-.blank-body .free-block {
-  position: absolute;
-  max-width: 300px;
+/* Container para páginas textuais (blog, projetos, posts) */
+.blank-content {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 120px 40px 80px 40px;
+}
+
+/* Tipografia padrão do blank */
+.blank-content p,
+.blank-content li,
+.blank-content blockquote {
+  font-size: 1.15rem;
+  line-height: 1.65;
+  font-style: italic;
+}
+
+/* Títulos */
+.blank-content h1,
+.blank-content h2,
+.blank-content h3 {
+  font-weight: 700;
+  font-style: italic;
+  margin-bottom: 1.5rem;
+}
+
+
+/* =====================================================
+   HOMEPAGE LIVRE (COLAGEM)
+===================================================== */
+.free-block {
+  position: relative;
 }
 
 .free-text {
@@ -80,4 +84,7 @@ a:hover {
 
 .free-img {
   width: 100%;
+  height: auto;
+  display: block;
 }
+
