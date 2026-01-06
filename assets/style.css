@@ -8,10 +8,17 @@ html, body {
   font-family: "Crimson Text", serif;
 }
 
+
+.free-text {
+  margin: 0;
+}
+
+
 .blank-body {
   background: #000;
   min-height: 100vh;
 }
+
 
 .blank-content {
   max-width: 760px;
@@ -19,6 +26,7 @@ html, body {
   padding: 120px 40px;
   font-style: italic;
 }
+
 
 .blank-content h1,
 .blank-content h2,
