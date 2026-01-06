@@ -3,40 +3,58 @@ layout: blank
 title: "Rastros de Anis"
 ---
 
-<!-- Imagem decorativa esquerda -->
 <div class="free-block" style="top: 40px; left: 60px;">
   <img class="free-img" src="https://via.placeholder.com/300x200" alt="">
 </div>
 
-<!-- Título -->
-<div class="free-block title-main"
-     style="top: 60px; left: 120px;">
+<div style="
+  position: absolute;
+  top: 60px;
+  left: 120px;
+  font-size: 2.2rem;
+  font-family: 'Crimson Text', serif;
+  font-style: italic;
+  color: #e6e6e6;
+  letter-spacing: 1px;
+  z-index: 10;
+">
   Rastros de Anis
 </div>
 
-<!-- Texto-manifesto -->
-<div class="free-block text-manifest"
-     style="top: 300px; left: 120px;">
-  fragmentos, ecos, rastros<br>
-  territórios de poeira digital
+
+<div class="free-block" style="top: 300px; left: 120px;">
+  <p class="free-text">
+    fragmentos, ecos, rastros
+    <br>
+    territórios de poeira digital
+  </p>
 </div>
 
-<!-- Imagem central clicável -->
+
+
 <div class="free-block"
-     style="top: 120px; right: 60px; max-width: 360px;">
+     style="
+       position: absolute;
+       top: 120px;
+       right: 60px;
+       max-width: 360px;
+       z-index: 5;
+     ">
   <a href="/blog/2025/01/16/O-desejo-de-abrir-fendas-no-Tempo.html">
-    <img class="free-img" src="/assets/images/rubreo.jpg">
+    <img class="free-img" 
+         src="/assets/images/rubreo.jpg"
+         style="width: 100%; height: auto;">
   </a>
 </div>
 
-<!-- Imagem direita -->
+
 <div class="free-block" style="top: 100px; left: 450px;">
   <img class="free-img" src="https://via.placeholder.com/250x250" alt="">
 </div>
 
-<!-- Navegação -->
-<div class="free-block nav-links"
-     style="top: 420px; left: 500px;">
-  <a href="/blog/">Blog</a><br>
-  <a href="/projetos/">Projetos</a>
+<div class="free-block" style="top: 420px; left: 500px;">
+  <p class="free-text">  
+    <a href="/blog/">Blog</a><br>
+    <a href="/projetos/">Projetos</a>
+  </p>
 </div>
