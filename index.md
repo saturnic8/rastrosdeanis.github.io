@@ -35,7 +35,7 @@ title: "Rastros de Anis"
 <div class="free-block"
      style="
        position: absolute;
-       top: 60px;
+       top: 0px;
        right: 60px;
        max-width: 360px;
        z-index: 5;
