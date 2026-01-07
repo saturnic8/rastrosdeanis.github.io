@@ -25,7 +25,7 @@ title: Projetos
   </div>
 
   <div class="project-item">
-    <img src="{{ site.baseurl }}assets/images/corpo.jpg" alt="Projeto 3">
+    <img src="{{ site.baseurl }}/assets/images/corte do tempo vetor.jpg" alt="Projeto 3">
   </div>
 
 </div>
