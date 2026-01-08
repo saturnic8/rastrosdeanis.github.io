@@ -1,0 +1,35 @@
+---
+layout: blank
+title: Encantamento Urbano
+---
+
+
+<!-- Imagem centralizada -->
+  <div class="free-block"
+     style="
+       position: relative;
+       max-width: 560px;
+       margin: 120px auto 0 auto; /* centraliza */
+       z-index: 5;
+     ">
+  <img class="free-img" 
+       src="/assets/images/rubreo.jpg"
+       style="width: 100%; height: auto;">
+</div>
+
+<!-- Texto centralizado com quebras preservadas -->
+  <div style="
+       max-width: 600px;
+       margin: 0 auto;
+       text-align: center;
+       color: #fff;
+       font-size: 1.1rem;
+       line-height: 1.9;
+       font-family: 'Crimson Text', serif;
+       font-style: italic;
+       white-space: pre-wrap;
+     ">
+
+Sobre quando as formas retas da cidade e dos pixels se perder por aí
+
+  </div>
