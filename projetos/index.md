@@ -16,17 +16,25 @@ title: Projetos
 
 <div class="projects-grid">
 
-  <div class="project-item">
-    <img src="{{ site.baseurl }}/assets/images/rubreo.jpg" alt="Projeto 1">
-  </div>
+ <a class="project-item" href="{{ site.baseurl }}projetos/encantamento-urbano">
+    <img
+      src="{{ site.baseurl }}/assets/images/rubreo.jpg"
+      alt="Rubreo">
+  </a>
 
-  <div class="project-item">
-    <img src="{{ site.baseurl }}/assets/images/rubreo.jpg" alt="Projeto 2">
-  </div>
 
-  <div class="project-item">
-    <img src="{{ site.baseurl }}/assets/images/corpo.jpg" alt="Projeto 3">
-  </div>
+  <a class="project-item" href="{{ site.baseurl }}projetos/encantamento-urbano">
+    <img
+      src="{{ site.baseurl }}/assets/images/rubreo.jpg"
+      alt="Rubreo">
+  </a>
+
+
+  <a class="project-item" href="{{ site.baseurl }}projetos/encantamento-urbano">
+    <img
+      src="{{ site.baseurl }}/assets/images/rubreo.jpg"
+      alt="Rubreo">
+  </a>
 
 </div>
 
