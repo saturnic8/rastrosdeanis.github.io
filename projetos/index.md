@@ -23,7 +23,7 @@ title: Projetos
   </a>
 
 
-  <a class="project-item" href="{{ site.baseurl }}projetos/encantamento-urbano">
+  <a class="project-item" href="{{ site.baseurl }}encantamento-urbano">
     <img
       src="{{ site.baseurl }}/assets/images/rubreo.jpg"
       alt="Rubreo">
